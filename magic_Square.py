@@ -1,4 +1,4 @@
-n = int(input("What is the size of the maguc Square? "))
+n = int(input("What is the size of the magic Square? "))
 magicSquare = []
 for i in range(n):
     l = []
